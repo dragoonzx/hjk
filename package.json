@@ -17,6 +17,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "http://dragoonzx.github.io/here",
   "browserslist": [
     ">0.2%",
     "not dead",
